@@ -1,9 +1,9 @@
 module.exports = {
-  host: "localhost",
+  host: "containers-us-west-80.railway.app",
   username: "postgres",
-  password: "123456",
-  database: "injsdb",
-  port: "5433",
+  password: "dIoZwlyuHiVVbT9vABVe",
+  database: "railway",
+  port: "5583",
   dialect: "postgres",
   pool: {
     max: 5,
