@@ -1,26 +1,23 @@
 {
   "development": {
+    "host": "containers-us-west-80.railway.app",
     "username": "postgres",
-    "password": "123456",
-    "database": "injsdb",
-    "host": "localhost",
-    "dialect": "postgres",
-    "port": "5433"
+    "password": "dIoZwlyuHiVVbT9vABVe",
+    "database": "railway",
+    "port": "5583"
   },
   "test": {
+    "host": "containers-us-west-80.railway.app",
     "username": "postgres",
-    "password": "123456",
-    "database": "injsdb",
-    "host": "localhost",
-    "dialect": "postgres",
-    "port": "5433"
+    "password": "dIoZwlyuHiVVbT9vABVe",
+    "database": "railway",
+    "port": "5583"
   },
   "production": {
+    "host": "containers-us-west-80.railway.app",
     "username": "postgres",
-    "password": "123456",
-    "database": "injsdb",
-    "host": "localhost",
-    "dialect": "postgres",
-    "port": "5433"
+    "password": "dIoZwlyuHiVVbT9vABVe",
+    "database": "railway",
+    "port": "5583"
   }
 }
